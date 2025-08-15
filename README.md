@@ -1,6 +1,6 @@
 # 🚀 Exclusive Courses: A Journey into Robotics and AI Engineering
 
-Welcome to the exclusive learning repository curated by **Zhiyu (BlueDarkUP)** for FTC Team 27570 and the broader robotics community.
+Welcome to the exclusive learning repository curated by **Jiang (BlueDarkUP)** for FTC Team 27570 and the broader robotics community.
 
 This is not just a collection of code snippets; it's a **structured learning path** designed to take you from a novice programmer to a confident systems engineer. Each course, built upon real-world competition projects, represents a step forward in technical skill and, more importantly, in engineering thinking.
 
